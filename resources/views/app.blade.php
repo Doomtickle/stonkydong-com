@@ -5,5 +5,6 @@
         @include('_components/nav')
         @include('_components/hero')
         @include('_components/feature')
+        @include('_components/testimonial')
     </section>
 @endsection
