@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-.hi {
-  text-decoration: underline;
+@layer base {
+  main {
+    color: #fff;
+    background: #232526;
+    background: -webkit-linear-gradient(to bottom left, #414345, #232526);
+    background: linear-gradient(to bottom left, #414345, #232526);
+    height: 100vh;
+    width: 100vw;
+  }
+  h2 {
+    @apply text-xl;
+  }
 }
