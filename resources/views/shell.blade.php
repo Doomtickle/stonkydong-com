@@ -9,7 +9,7 @@
     </head>
     <body>
         <div>
-            suckit
+            woo
         </div>
     </body>
     <script src="{{mix('js/app.js')}}" />
