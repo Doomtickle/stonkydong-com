@@ -11,6 +11,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['"Inter var"', ...defaultTheme.fontFamily.sans],
+        display: '"Press Start 2P"',
       },
     },
   },

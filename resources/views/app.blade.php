@@ -1,8 +1,9 @@
 @extends('_layouts.main')
 
 @section('content')
-    <section>
-        <h1 class="text-red-500">Working css
-        </h1>
+    <section class="w-full pb-20 mx-auto font-light text-center max-w-7xl lg:py-48 lg:text-left">
+        @include('_components/nav')
+        @include('_components/hero')
+        @include('_components/feature')
     </section>
 @endsection
