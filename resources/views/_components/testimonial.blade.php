@@ -3,7 +3,7 @@
   <div class="relative px-4 pt-20 pb-12 mx-auto max-w-7xl sm:px-6 lg:px-8 lg:py-20">
     <div class="relative lg:flex lg:items-center">
       <div class="hidden lg:block lg:flex-shrink-0">
-        <img class="object-cover w-64 h-64 rounded-full xl:h-80 xl:w-80" src="/img/troll.jpg" alt="Chaz Longdix, your wifes boyfriend">
+        <img class="object-cover w-48 h-48 rounded-full btn xl:h-80 xl:w-80" src="/img/troll.jpg" alt="Chaz Longdix, your wifes boyfriend">
       </div>
 
       <div class="relative lg:ml-10">
@@ -13,13 +13,13 @@
         <blockquote class="relative">
           <div class="text-2xl font-medium leading-9">
             <p class="text-white">
-            You should definitely get this and spend a lot of time using it. Don't mind us.
+            You should definitely download this and spend a lot of time using it. Don't mind us, we'll be fine.
             </p>
           </div>
           <footer class="mt-8">
-            <div class="flex justify-center lg:justify-start">
+            <div class="flex items-center justify-center lg:justify-start">
               <div class="flex-shrink-0 lg:hidden">
-                <img class="object-cover w-20 h-20 rounded-full" src="/img/troll.jpg" alt="Chaz Longdix, your wifes boyfriend">
+                <img class="object-cover w-20 h-20 rounded-full btn" src="/img/troll.jpg" alt="Chaz Longdix, your wifes boyfriend">
               </div>
               <div class="ml-4 lg:ml-0">
                 <div class="text-base font-medium text-gray-100">Chaz Longdix</div>
