@@ -1,5 +1,4 @@
-<!-- This example requires Tailwind CSS v2.0+ -->
-<footer class="w-full pt-2">
+<footer class="w-full pt-2 lg:py-8">
   <div class="px-4 py-12 mx-auto max-w-7xl sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
     <div class="flex justify-center space-x-6 md:order-2">
       <a href="#" class="p-2 text-gray-400 border border-purple-500 rounded-full hover:text-gray-500 btn">

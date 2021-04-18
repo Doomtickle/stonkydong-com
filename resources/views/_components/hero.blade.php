@@ -1,7 +1,8 @@
-<div class="relative flex flex-wrap items-start justify-center px-4 pb-16 h-4/5 pt-28 lg:pt-0 lg:w-1/2 sm:px-8 xl:pr-16">
-    <h1 class="mb-4 text-2xl font-black leading-relaxed text-center lg:w-full md:text-4xl lg:text-5xl">
-        <span class="block mb-2 text-transparent bg-clip-text bg-gradient-to-tr from-green-500 to-green-300 xl:inline-block">Spreadsheets are for</span>
-        <span class="block text-4xl text-transparent lg:text-6xl xl:inline font-display bg-clip-text bg-gradient-to-tr from-red-800 to-red-500 ">Boomers</span>
+<section class="flex flex-wrap items-center lg:pb-16 xl:pb-32">
+  <div class="relative flex flex-wrap items-start justify-center px-4 pb-16 h-4/5 pt-28 lg:pt-0 lg:w-1/2 lg:pr-32">
+    <h1 class="mb-4 text-2xl font-black leading-relaxed text-center md:text-4xl lg:text-4xl">
+      <span class="block mb-2 text-transparent bg-clip-text bg-gradient-to-tr from-green-500 to-green-300 xl:inline-block">Spreadsheets are for</span>
+      <span class="block text-4xl text-transparent lg:text-6xl xl:inline-block font-display bg-clip-text bg-gradient-to-tr from-red-800 to-red-500 ">Boomers</span>
     </h1>
     <div class="p-6 font-semibold tracking-wide gradient rounded-xl well">
       <p class="text-gray-200 sm:mx-auto sm:text-xl">
@@ -12,15 +13,19 @@
       </p>
     </div>
     <div class="mt-12 sm:flex sm:justify-center lg:justify-start">
-        <div class="rounded-md">
-            <a href="/" class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-center text-white border border-green-500 gradient btn rounded-md hover md:py-4 md:text-lg md:px-10">
-                Download for MacOS
-            </a>
-        </div>
-        <div class="mt-3 rounded-md sm:mt-0 sm:ml-3">
-            <a href="#" class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-center text-white border border-yellow-300 gradient btn rounded-md hover md:py-4 md:text-lg">
-                I can read words good
-            </a>
-        </div>
+      <div class="rounded-md">
+        <a href="/" class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-center text-white border border-green-500 gradient btn rounded-md hover md:py-4 md:text-lg md:px-10">
+          Download for MacOS
+        </a>
+      </div>
+      <div class="mt-3 rounded-md sm:mt-0 sm:ml-3">
+        <a href="#" class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-center text-white border border-yellow-300 gradient btn rounded-md hover md:py-4 md:text-lg">
+          I can read words good
+        </a>
+      </div>
     </div>
-</div>
+  </div>
+  <aside class="flex-wrap items-start justify-center hidden lg:flex lg:w-1/2 rounded-xl card" style="max-height: 500px">
+    <img class="object-cover w-full h-full" src="/img/screenie.jpg" />
+  </aside>
+</section>

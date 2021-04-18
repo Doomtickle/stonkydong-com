@@ -1,4 +1,4 @@
-<div class="relative pb-16 rounded-lg well lg:pb-8 xl:pb-16">
+<section class="relative pb-16 rounded-lg well lg:px-8 xl:px-16">
   <div class="max-w-md px-4 pt-8 mx-auto text-center sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
     <h2 class="text-transparent uppercase font-display bg-clip-text bg-gradient-to-tr from-purple-500 to-purple-300">Jacked to the tits</h2>
     <p class="mt-2 text-3xl font-extrabold tracking-tight text-gray-100 sm:text-4xl">
@@ -46,4 +46,4 @@
       </div>
     </div>
   </div>
-</div>
+</section>

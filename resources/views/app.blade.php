@@ -6,6 +6,8 @@
         @include('_components/hero')
         @include('_components/feature')
         @include('_components/testimonial')
+        @include('_components/faq')
+        @include('_components/cta')
         @include('_components/footer')
     </div>
 @endsection

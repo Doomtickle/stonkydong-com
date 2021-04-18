@@ -1,4 +1,4 @@
-<div class="fixed top-0 left-0 z-40 w-screen py-1 card lg:py-4">
+<section class="fixed top-0 left-0 z-40 w-screen py-1 card lg:py-4">
   <nav class="flex items-center justify-between px-8 mx-auto xl:w-4/5">
     <div class="relative flex flex-wrap items-center justify-center w-auto h-full py-1 pl-2 text-center font-display max-w-1/3 lg:py-0 lg:pl-0">
       <img src="/img/sd.png" class="block w-auto h-12 mx-auto lg:h-16"/>
@@ -24,4 +24,4 @@
       <button type="button" class="h-16 px-4 py-2 mr-4 w-52 btn bg-gradient-to-tr from-green-800 to-green-500 rounded-md">Download</button>
     </div>
   </nav>
-</div>
+</section>
